@@ -1,0 +1,20 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "Assignment 4 Employees and Departments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Team CHJJ Corey Oaf, Jacob Batchelor, Jordan Riggs, Hannah Brumfiel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "exphbs": "^1.2.0",
+    "express": "^4.18.2",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^7.0.3",
+    "multer": "^1.4.4"
+  }
+}
